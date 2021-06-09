@@ -1,4 +1,4 @@
-# Aqui Serviços :airplane:
+# Aqui Serviços
 
 Hey guys. Made this repo just to improving my Flutter skills by trying to build an app.
 
