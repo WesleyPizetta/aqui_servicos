@@ -26,7 +26,7 @@ Hey guys. Made this repo just to improving my Flutter skills by trying to build 
 
 ## Notes :notebook:
 
-* Well, my intention is to start step by step, from a noob to a experient Flutter developer. I intend to implement some complex features in the future, but for now, I am just starting by prototype the app and learn the basics of the language.
+* Well, my intention is to start step by step, from a noob to a experient Flutter developer. I intend to implement some complex features in the future, but for now, I am just starting by prototype the app and learn the basics of the framework.
 
 ## Social Media :bust_in_silhouette:
 
