@@ -23,7 +23,7 @@ Hey guys. Made this repo just to improving my Flutter skills by trying to build 
 - [ ] Use Animations
 - [ ] Use FireBase to authenticate the users
 
-* Note: this project is in progress, not finished yet
+* Note: project in progress.
 
 ## Notes :notebook:
 
