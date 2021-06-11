@@ -18,6 +18,7 @@ Hey guys. Made this repo just to improving my Flutter skills by trying to build 
 - [x] ~~Create Login Screen~~
 - [x] ~~Create Home Screen~~
 - [x] ~~Navigate between screens~~
+- [ ] Create a Sign Up Screen
 - [ ] Create a "Show Password" button on Login Screen
 - [ ] Use Animations
 - [ ] Use FireBase to authenticate the users
