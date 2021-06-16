@@ -1,6 +1,6 @@
 # Aqui Serviços
 
-Hey guys. Made this repo just to improve my Flutter skills by trying to build an app.
+Hey guys. Made this repo just to improve my Flutter skills by trying to build an app. Checkout the "dev" branch to look at the project itself
 
 ## Table of Contents
 
